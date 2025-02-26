@@ -1,0 +1,49 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "user": {
+          "id": 101,
+          "username": "john_doe",
+          "profile_picture": "src/assets/profile-1.webp"
+        },
+        "image": "src/assets/post-1.webp",
+        "caption": "Enjoying the sunset! 🌅 #nature #peace",
+        "likes_count": 120,
+        "comments": [
+          {
+            "user": "alive_wonder",
+            "comment": "Wow! This looks amazing! 😍"
+          },
+          {
+            "user": "alex_89",
+            "comment": "Where is this place?"
+          }
+        ],
+        "timestamp": "2025-02-25T11:00:00Z"
+      },
+      {
+        "id": 2,
+        "user": {
+          "id": 102,
+          "username": "jane_smith",
+          "profile_picture": "src/assets/profile-2.webp"
+        },
+        "image": "src/assets/post-2.webp",
+        "caption": "Freshly brewed coffee ☕ Perfect start to the day! #coffee #morningvibes",
+        "likes_count": 98,
+        "comments": [
+          {
+            "user": "coffee_lover",
+            "comment": "Nothing beats a good coffee! ☕🔥"
+          },
+          {
+            "user": "morning_mood",
+            "comment": "That looks so good! Where did you get it?"
+          }
+        ],
+        "timestamp": "2025-02-25T08:30:00Z"
+      }
+    ]
+  }
+  

@@ -1,0 +1,48 @@
+{
+    "reels": [
+      {
+        "id": 1,
+        "user": {
+          "id": 101,
+          "username": "john_doe",
+          "profile_picture": "src/assets/profile-1.webp"
+        },
+        "video": "src/assets/reel-1.mp4",
+        "caption": "Epic road trip! 🚗💨 #travel #freedom",
+        "likes_count": 200,
+        "comments": [
+          {
+            "user": "wanderlust",
+            "comment": "This looks so fun! 🌍"
+          },
+          {
+            "user": "alex_89",
+            "comment": "Adding this to my bucket list!"
+          }
+        ],
+        "timestamp": "2025-02-25T12:30:00Z"
+      },
+      {
+        "id": 2,
+        "user": {
+          "id": 102,
+          "username": "jane_smith",
+          "profile_picture": "src/assets/profile-2.webp"
+        },
+        "video": "src/assets/reel-2.mp4",
+        "caption": "Workout motivation! 💪🔥 #fitness #goals",
+        "likes_count": 175,
+        "comments": [
+          {
+            "user": "fit_life",
+            "comment": "This energy is insane! 💯"
+          },
+          {
+            "user": "healthy_vibes",
+            "comment": "Time to hit the gym! 🏋️"
+          }
+        ],
+        "timestamp": "2025-02-25T10:45:00Z"
+      }
+    ]
+}
