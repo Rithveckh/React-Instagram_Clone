@@ -44,6 +44,28 @@
         ],
         "timestamp": "2025-02-25T08:30:00Z"
       }
+    ],
+    "profile":{
+        "id": 101,
+        "username": "john_doe",
+        "profile_picture": "src/assets/profile-1.webp"
+    },
+    "suggestions":[
+      {
+        "id": 101,
+        "username": "john_doe",
+        "profile_picture": "src/assets/profile-1.webp"
+      },
+      {
+        "id": 102,
+        "username": "jane_smith",
+        "profile_picture": "src/assets/profile-2.webp"
+      },
+      {
+        "id": 101,
+        "username": "john_doe",
+        "profile_picture": "src/assets/profile-1.webp"
+      }
     ]
   }
   
