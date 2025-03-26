@@ -12,6 +12,7 @@
 
 .story{
   height: 70px;
+  padding: 10px;
 }
 
 .dp{
@@ -22,4 +23,17 @@
 
 .image{
   width: 300px;
+}
+
+.story-dp{
+  width: 40px;
+}
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
 }

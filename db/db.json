@@ -62,9 +62,29 @@
         "profile_picture": "src/assets/profile-2.webp"
       },
       {
-        "id": 101,
+        "id": 103,
         "username": "john_doe",
         "profile_picture": "src/assets/profile-1.webp"
+      }
+    ],
+    "story": [
+      {
+        "id": 1,
+        "user": {
+          "id": 101,
+          "username": "john_doe",
+          "profile_picture": "src/assets/profile-1.webp"
+        },
+        "image": "src/assets/vertical-2.jpg"
+      },
+      {
+        "id": 2,
+        "user": {
+          "id": 102,
+          "username": "jane_smith",
+          "profile_picture": "src/assets/profile-2.webp"
+        }, 
+        "image": "src/assets/vertical-1.jpg"
       }
     ]
   }
